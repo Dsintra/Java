@@ -1,0 +1,3 @@
+Table persons: id, name, ages
+
+This is the table I use to connect with java.
